@@ -3,9 +3,9 @@ gmapstlr is a jQuery plugin that allows you to easily create and customize googl
 
 ## Features
 
- - Easy to use
+ - Easy to use.
  - Set initial position and type of map.
- - Set google map options.
+ - Set google maps options.
  - Set minimum, maximum and initial zoom level.
  - Add multiple markers with custom icons, popups and titles.
  - Allows you to set a main color for your map (plus a saturation and brightness value).
