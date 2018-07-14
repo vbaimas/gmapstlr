@@ -76,10 +76,14 @@ var latlng1 = new google.maps.LatLng(37.971421, 23.726166);
 		    infowindow.open(map, marker1);
 	}
   ```
+  
+## Contributing
 
- 
+To contribute this plugin, clone this repo locally and commit your code. Please check that everything works before opening a pull-request.
+
 > **Note:**</br>
 SASS and CSS</br>
 I use SASS and   for the resources [compass](http://compass-style.org). If you don't use SASS, just use 
 the .css ﬁle that you ﬁnd in the css folder also you can delete sass folder.</br>
 I have integrated [Eric Meyer’s CSS reset rules](http://meyerweb.com/eric/tools/css/reset/)
+
